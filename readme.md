@@ -117,4 +117,4 @@ logs/
 
 ## License
 
-MIT © [Tetrachrome Studios](https://tetrachromestudios.com)
+GNU AFFERO GENERAL PUBLIC LICENSE © [Tetrachrome Studios](https://tetrachromestudios.com)
